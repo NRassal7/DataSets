@@ -1,0 +1,547 @@
+transport,month,year,volume,rate
+Bus,Apr,2009-10,2066,11.3
+London Underground / Docklands Light Railway,Apr,2009-10,1206,13.3 
+London Overground,Apr,2009-10,31,-
+London Tramlink,Apr,2009-10,38,17.4
+Bus,May,2009-10,2148,11.1
+London Underground / Docklands Light Railway,May,2009-10,1359,14.6
+London Overground,May,2009-10,20,-
+London Tramlink,May,2009-10,41,18.1
+Bus,Jun,2009-10,2141,11.1
+London Underground / Docklands Light Railway,Jun,2009-10,1179,13.1
+London Overground,Jun,2009-10,35,-
+London Tramlink,Jun,2009-10,41,17.4
+Bus,Jul,2009-10,2149,11.2
+London Underground / Docklands Light Railway,Jul,2009-10,1216,12.5
+London Overground,Jul,2009-10,32,-
+London Tramlink,Jul,2009-10,35,16.3
+Bus,Aug,2009-10,1745,9.7
+London Underground / Docklands Light Railway,Aug,2009-10,1151,13.2
+London Overground,Aug,2009-10,37,-
+London Tramlink,Aug,2009-10,26,17.4
+Bus,Sept,2009-10,1871,9.6
+London Underground / Docklands Light Railway,Sept,2009-10,1251,13.5
+London Overground,Sept,2009-10,39,-
+London Tramlink,Sept,2009-10,32,15.2
+Bus,Oct,2009-10,2211,11
+London Underground / Docklands Light Railway,Oct,2009-10,1337,13.2
+London Overground,Oct,2009-10,54,-
+London Tramlink,Oct,2009-10,29,12.5
+Bus,Nov,2009-10,2234,11.6
+London Underground / Docklands Light Railway,Nov,2009-10,1282,13.4
+London Overground,Nov,2009-10,52,-
+London Tramlink,Nov,2009-10,40,18
+Bus,Dec,2009-10,1925,10.9
+London Underground / Docklands Light Railway,Dec,2009-10,1130,12
+London Overground,Dec,2009-10,35,-
+London Tramlink,Dec,2009-10,45,21.6
+Bus,Jan,2009-10,1921,10.6
+London Underground / Docklands Light Railway,Jan,2009-10,1198,13.6
+London Overground,Jan,2009-10,42,-
+London Tramlink,Jan,2009-10,22,10.4
+Bus,Feb,2009-10,2079,12
+London Underground / Docklands Light Railway,Feb,2009-10,1187,13.1
+London Overground,Feb,2009-10,29,-
+London Tramlink,Feb,2009-10,28,14
+Bus,Mar,2009-10,2402,12
+London Underground / Docklands Light Railway,Mar,2009-10,1329,12.5
+London Overground,Mar,2009-10,44,-
+London Tramlink,Mar,2009-10,26,10.6
+Bus,Apr,2010-11,1955,10.7
+London Underground / Docklands Light Railway,Apr,2010-11,1134,12
+London Overground,Apr,2010-11,39,-
+London Tramlink,Apr,2010-11,37,16.7
+Bus,May,2010-11,1955,10
+London Underground / Docklands Light Railway,May,2010-11,1117,11.9
+London Overground,May,2010-11,43,-
+London Tramlink,May,2010-11,37,16
+Bus,Jun,2010-11,2068,10.6
+London Underground / Docklands Light Railway,Jun,2010-11,1058,10.7
+London Overground,Jun,2010-11,45,-
+London Tramlink,Jun,2010-11,34,14.5
+Bus,Jul,2010-11,2161,10.9
+London Underground / Docklands Light Railway,Jul,2010-11,1181,11.5
+London Overground,Jul,2010-11,70,-
+London Tramlink,Jul,2010-11,32,13.6
+Bus,Aug,2010-11,1850,10.6
+London Underground / Docklands Light Railway,Aug,2010-11,1078,11.3
+London Overground,Aug,2010-11,55,-
+London Tramlink,Aug,2010-11,30,14.3
+Bus,Sep,2010-11,1988,9.7
+London Underground / Docklands Light Railway,Sep,2010-11,1066,10.8
+London Overground,Sep,2010-11,56,-
+London Tramlink,Sep,2010-11,24,10
+Bus,Oct,2010-11,2086,10.5
+London Underground / Docklands Light Railway,Oct,2010-11,1304,12.4
+London Overground,Oct,2010-11,80,-
+London Tramlink,Oct,2010-11,28,11.5
+Bus,Nov,2010-11,2071,10.5
+London Underground / Docklands Light Railway,Nov,2010-11,1273,12.3
+London Overground,Nov,2010-11,72,-
+London Tramlink,Nov,2010-11,49,19.9
+Bus,Dec,2010-11,1747,10.3
+London Underground / Docklands Light Railway,Dec,2010-11,983,10.3
+London Overground,Dec,2010-11,33,-
+London Tramlink,Dec,2010-11,14,6.2
+Bus,Jan,2010-11,1979,10.7
+London Underground / Docklands Light Railway,Jan,2010-11,1104,11.8
+London Overground,Jan,2010-11,53,-
+London Tramlink,Jan,2010-11,29,13
+Bus,Feb,2010-11,1968,11.1
+London Underground / Docklands Light Railway,Feb,2010-11,1125,12.1
+London Overground,Feb,2010-11,54,-
+London Tramlink,Feb,2010-11,23,10.5
+Bus,Mar,2010-11,2126,10.2
+London Underground / Docklands Light Railway,Mar,2010-11,1260,11.7
+London Overground,Mar,2010-11,58,-
+London Tramlink,Mar,2010-11,30,11.7
+Bus,Apr,2011-12,1768,9.7
+London Underground / Docklands Light Railway,Apr,2011-12,965,10
+London Overground,Apr,2011-12,40,6.6
+London Tramlink,Apr,2011-12,46,21.8
+Bus,May,2011-12,2006,10
+London Underground / Docklands Light Railway,May,2011-12,1170,11.8
+London Overground,May,2011-12,51,7.4
+London Tramlink,May,2011-12,37,15.3
+Bus,Jun,2011-12,1967,9.8
+London Underground / Docklands Light Railway,Jun,2011-12,1166,11.3
+London Overground,Jun,2011-12,59,7.7
+London Tramlink,Jun,2011-12,34,13.9
+Bus,Jul,2011-12,1921,9.6
+London Underground / Docklands Light Railway,Jul,2011-12,1135,10.8
+London Overground,Jul,2011-12,74,9
+London Tramlink,Jul,2011-12,38,15.6
+Bus,Aug,2011-12,1515,8.7
+London Underground / Docklands Light Railway,Aug,2011-12,1010,10.3
+London Overground,Aug,2011-12,78,9.5
+London Tramlink,Aug,2011-12,35,16.6
+Bus,Sep,2011-12,1659,8
+London Underground / Docklands Light Railway,Sep,2011-12,916,8.8
+London Overground,Sep,2011-12,109,12.7
+London Tramlink,Sep,2011-12,26,10.4
+Bus,Oct,2011-12,1841,9.1
+London Underground / Docklands Light Railway,Oct,2011-12,1031,9.4
+London Overground,Oct,2011-12,64,6.7
+London Tramlink,Oct,2011-12,22,8.8
+Bus,Nov,2011-12,1957,9.6
+London Underground / Docklands Light Railway,Nov,2011-12,987,9
+London Overground,Nov,2011-12,72,7.6
+London Tramlink,Nov,2011-12,27,10.5
+Bus,Dec,2011-12,1650,9.1
+London Underground / Docklands Light Railway,Dec,2011-12,927,9.1
+London Overground,Dec,2011-12,58,7.1
+London Tramlink,Dec,2011-12,33,14
+Bus,Jan,2011-12,1745,9.1
+London Underground / Docklands Light Railway,Jan,2011-12,954,9.3
+London Overground,Jan,2011-12,55,5.9
+London Tramlink,Jan,2011-12,18,7.6
+Bus,Feb,2011-12,1643,8.9
+London Underground / Docklands Light Railway,Feb,2011-12,1006,9.9
+London Overground,Feb,2011-12,71,7.8
+London Tramlink,Feb,2011-12,18,8.5
+Bus,Mar,2011-12,1998,9.4
+London Underground / Docklands Light Railway,Mar,2011-12,1045,9.4
+London Overground,Mar,2011-12,82,8.1
+London Tramlink,Mar,2011-12,35,13.5
+Bus,Apr,2012-13,1653,8.9
+London Underground / Docklands Light Railway,Apr,2012-13,934,9.1
+London Overground,Apr,2012-13,64,7.1
+London Tramlink,Apr,2012-13,19,8.3
+All transport modes,Apr,2012-13,2670,8.9
+Bus,May,2012-13,1823,8.5
+London Underground / Docklands Light Railway,May,2012-13,1100,9.9
+London Overground,May,2012-13,72,7.2
+London Tramlink,May,2012-13,46,17.5
+All transport modes,May,2012-13,3041,9
+Bus,Jun,2012-13,1688,8.8
+London Underground / Docklands Light Railway,Jun,2012-13,1047,10.1
+London Overground,Jun,2012-13,75,8.2
+London Tramlink,Jun,2012-13,35,14.7
+All transport modes,Jun,2012-13,2845,9.2
+Bus,Jul,2012-13,1822,9.1
+London Underground / Docklands Light Railway,Jul,2012-13,1205,10.4
+London Overground,Jul,2012-13,80,7.6
+London Tramlink,Jul,2012-13,36,13.4
+All transport modes,Jul,2012-13,3143,9.5
+Bus,Aug,2012-13,1591,8.7
+London Underground / Docklands Light Railway,Aug,2012-13,948,7.9
+London Overground,Aug,2012-13,97,8.7
+London Tramlink,Aug,2012-13,31,12.3
+All transport modes,Aug,2012-13,2667,8.4
+Bus,Sep,2012-13,1505,7.3
+London Underground / Docklands Light Railway,Sep,2012-13,884,8.1
+London Overground,Sep,2012-13,99,9.4
+London Tramlink,Sep,2012-13,21,8
+All transport modes,Sep,2012-13,2509,7.7
+Bus,Oct,2012-13,1822,8.624117235
+London Underground / Docklands Light Railway,Oct,2012-13,1158,9.821882952
+London Overground,Oct,2012-13,93,8.659217877
+London Tramlink,Oct,2012-13,32,12.69021945
+All transport modes,Oct,2012-13,3105,9.1
+Bus,Nov,2012-13,1823,9.045305918
+London Underground / Docklands Light Railway,Nov,2012-13,1304,11.41856392
+London Overground,Nov,2012-13,100,9.03827845
+London Tramlink,Nov,2012-13,31,11.93114421
+All transport modes,Nov,2012-13,3258,9.9
+Bus,Dec,2012-13,1725,9.5
+London Underground / Docklands Light Railway,Dec,2012-13,1037,10
+London Overground,Dec,2012-13,72,7.5
+London Tramlink,Dec,2012-13,31,12.9
+All transport modes,Dec,2012-13,2865,9.6
+Bus,Jan,2012-13,1581,8.3
+London Underground / Docklands Light Railway,Jan,2012-13,1108,10.5
+London Overground,Jan,2012-13,76,6.9
+London Tramlink,Jan,2012-13,29,11.8
+All transport modes,Jan,2012-13,2794,9.1
+Bus,Feb,2012-13,1572,8.7
+London Underground / Docklands Light Railway,Feb,2012-13,999,9.8
+London Overground,Feb,2012-13,68,6.4
+London Tramlink,Feb,2012-13,21,9.1
+All transport modes,Feb,2012-13,2660,9
+Bus,Mar,2012-13,1644,8.2
+London Underground / Docklands Light Railway,Mar,2012-13,1221,11
+London Overground,Mar,2012-13,65,5.6
+London Tramlink,Mar,2012-13,23,8.9
+All transport modes,Mar,2012-13,2953,9.1
+Bus,Apr,2014-15,1306,6.796806775
+London Underground / Docklands Light Railway,Apr,2014-15,749,6.987902634
+London Overground,Apr,2014-15,83,7.26328078
+London Tramlink,Apr,2014-15,14,5.577366274
+All transport modes,Apr,2014-15,2152,6.869434576
+Bus,May,2014-15,1350,6.6
+London Underground / Docklands Light Railway,May,2014-15,747,6.5
+London Overground,May,2014-15,91,8.364184263
+London Tramlink,May,2014-15,13,5.351765743
+All transport modes,May,2014-15,2201,6.592438601
+Bus,Jun,2014-15,1438,6.9
+London Underground / Docklands Light Railway,Jun,2014-15,841,7.3
+London Overground,Jun,2014-15,75,6.7
+London Tramlink,Jun,2014-15,14,5.3
+All transport modes,Jun,2014-15,2368,7.027173024
+Bus,Jul,2014-15,1392,6.8
+London Underground / Docklands Light Railway,Jul,2014-15,859,7
+London Overground,Jul,2014-15,80,6.5
+London Tramlink,Jul,2014-15,19,7.2
+All transport modes,Jul,2014-15,2350,6.9
+Bus,Aug,2014-15,1183,6.6
+London Underground / Docklands Light Railway,Aug,2014-15,764,6.9
+London Overground,Aug,2014-15,70,5.9
+London Tramlink,Aug,2014-15,7,3.3
+All transport modes,Aug,2014-15,2024,6.7
+Bus,Sep,2014-15,1559,7.4
+London Underground / Docklands Light Railway,Sep,2014-15,793,6.8
+London Overground,Sep,2014-15,82,7.1
+London Tramlink,Sep,2014-15,8,2.9
+All transport modes,Sep,2014-15,2442,7.1
+Bus,Oct,2014-15,1585,7.4
+London Underground / Docklands Light Railway,Oct,2014-15,913,7
+London Overground,Oct,2014-15,54,4.4
+London Tramlink,Oct,2014-15,20,7.2
+All transport modes,Oct,2014-15,2572,7.1
+Bus,Nov,2014-15,1521,7.4
+London Underground / Docklands Light Railway,Nov,2014-15,856,6.8
+London Overground,Nov,2014-15,63,5.3
+London Tramlink,Nov,2014-15,22,8.2
+All transport modes,Nov,2014-15,2462,7.2
+Bus,Dec,2014-15,1515,8
+London Underground / Docklands Light Railway,Dec,2014-15,883,7.7
+London Overground,Dec,2014-15,52,4.9
+London Tramlink,Dec,2014-15,17,6.7
+All transport modes,Dec,2014-15,2467,7.8
+Bus,Jan,2014-15,1501,7.9
+London Underground / Docklands Light Railway,Jan,2014-15,801,6.9
+London Overground,Jan,2014-15,64,6.1
+London Tramlink,Jan,2014-15,23,8.8
+All transport modes,Jan,2014-15,2389,7.5
+Bus,Feb,2014-15,1339,7.6
+London Underground / Docklands Light Railway,Feb,2014-15,724,6.3
+London Overground,Feb,2014-15,68,6.1
+London Tramlink,Feb,2014-15,22,9
+All transport modes,Feb,2014-15,2153,7.1
+Bus,Mar,2014-15,1588,7.7
+London Underground / Docklands Light Railway,Mar,2014-15,899,7.1
+London Overground,Mar,2014-15,58,4.6
+London Tramlink,Mar,2014-15,29,10.8
+All transport modes,Mar,2014-15,2574,7.4
+Bus,Apr,2016-17,1347,7.1
+London Underground / Docklands Light Railway,Apr,2016-17,790,6.4
+London Overground,Apr,2016-17,73,4.6
+TfL Rail,Apr,2016-17,36,9.2
+London Tramlink,Apr,2016-17,21,8.8
+All transport modes,Apr,2016-17,2267,6.8
+Bus,May,2016-17,1502,7.7
+London Underground / Docklands Light Railway,May,2016-17,908,7.3
+London Overground,May,2016-17,74,4.7
+TfL Rail,May,2016-17,37,9.6
+London Tramlink,May,2016-17,27,10.6
+All transport modes,May,2016-17,2548,7.5
+Bus,Jun,2016-17,1555,8.1
+London Underground / Docklands Light Railway,Jun,2016-17,886,7.1
+London Overground,Jun,2016-17,92,6.1
+TfL Rail,Jun,2016-17,45,11.2
+London Tramlink,Jun,2016-17,25,9.7
+All transport modes,Jun,2016-17,2603,7.7
+Bus,Jul,2016-17,1482,7.9
+London Underground / Docklands Light Railway,Jul,2016-17,911,7.1
+London Overground,Jul,2016-17,110,6.9
+TfL Rail,Jul,2016-17,29,7.1
+London Tramlink,Jul,2016-17,14,5.4
+All transport modes,Jul,2016-17,2546,7.5
+Bus,Aug,2016-17,1404,8.3
+London Underground / Docklands Light Railway,Aug,2016-17,1028,8.7
+London Overground,Aug,2016-17,110,7.2
+TfL Rail,Aug,2016-17,28,7.1
+London Tramlink,Aug,2016-17,12,5.9
+All transport modes,Aug,2016-17,2583,8.3
+Bus,Sep,2016-17,1447,7.3
+London Underground / Docklands Light Railway,Sep,2016-17,856,6.9
+London Overground,Sep,2016-17,111,7
+TfL Rail,Sep,2016-17,39,10.1
+London Tramlink,Sep,2016-17,9,4.6
+All transport modes,Sep,2016-17,2465,7.2
+Bus,Oct,2016-17,1479,7.6
+London Underground / Docklands Light Railway,Oct,2016-17,963,7.3
+London Overground,Oct,2016-17,94,5.6
+TfL Rail,Oct,2016-17,37,9.2
+London Tramlink,Oct,2016-17,22,8.2
+All transport modes,Oct,2016-17,2595,7.4
+Bus,Nov,2016-17,1432,7.3
+London Underground / Docklands Light Railway,Nov,2016-17,1303,9.7
+London Overground,Nov,2016-17,98,5.8
+TfL Rail,Nov,2016-17,30,6.9
+London Tramlink,Nov,2016-17,17,7.9
+All transport modes,Nov,2016-17,2880,8.1
+Bus,Dec,2016-17,1370,7.8
+London Underground / Docklands Light Railway,Dec,2016-17,1020,8.5
+London Overground,Dec,2016-17,76,5.1
+TfL Rail,Dec,2016-17,38,10.7
+London Tramlink,Dec,2016-17,22,9
+All transport modes,Dec,2016-17,2526,8
+Bus,Jan,2016-17,1212,6.6
+London Underground / Docklands Light Railway,Jan,2016-17,974,8.4
+London Overground,Jan,2016-17,91,5.8
+TfL Rail,Jan,2016-17,32,7.6
+London Tramlink,Jan,2016-17,19,7.4
+All transport modes,Jan,2016-17,2328,7.2
+Bus,Feb,2016-17,1256,7.3
+London Underground / Docklands Light Railway,Feb,2016-17,944,8
+London Overground,Feb,2016-17,86,5.9
+TfL Rail,Feb,2016-17,30,9.1
+London Tramlink,Feb,2016-17,29,13.2
+All transport modes,Feb,2016-17,2345,7.6
+Bus,Mar,2016-17,1587,7.7
+London Underground / Docklands Light Railway,Mar,2016-17,1139,8.5
+London Overground,Mar,2016-17,127,7.3
+TfL Rail,Mar,2016-17,36,8.8
+London Tramlink,Mar,2016-17,28,10.2
+All transport modes,Mar,2016-17,2917,8
+Bus,Apr,2017-18,1166,6.6
+London Underground,Apr,2017-18,1014,9.5
+Docklands Light Railway,Apr,2017-18,63,6.1
+London Overground,Apr,2017-18,98,6.6
+TfL Rail,Apr,2017-18,34,10.3
+London Tramlink,Apr,2017-18,19,8.7
+All transport modes,Apr,2017-18,2394,7.6
+Bus,May,2017-18,1396,7
+London Underground,May,2017-18,922,7.9
+Docklands Light Railway,May,2017-18,61,5.9
+London Overground,May,2017-18,134,8.3
+TfL Rail,May,2017-18,51,13.4
+London Tramlink,May,2017-18,23,9.3
+All transport modes,May,2017-18,2575,7.4
+Bus,Jun,2017-18,1402,7.2
+London Underground,Jun,2017-18,1014,9
+Docklands Light Railway,Jun,2017-18,60,5.9
+London Overground,Jun,2017-18,137,8.7
+TfL Rail,Jun,2017-18,29,7.4
+London Tramlink,Jun,2017-18,24,9.7
+All transport modes,Jun,2017-18,2666,7.8
+Bus,Jul,2017-18,1536,8.1
+London Underground,Jul,2017-18,1103,9.4
+Docklands Light Railway,Jul,2017-18,55,5.3
+London Overground,Jul,2017-18,124,7.7
+TfL Rail,Jul,2017-18,36,9.1
+London Tramlink,Jul,2017-18,27,10.8
+All transport modes,Jul,2017-18,2881,8.5
+Bus,Aug,2017-18,1197,7.1
+London Underground,Aug,2017-18,992,9.1
+Docklands Light Railway,Aug,2017-18,62,6.3
+London Overground,Aug,2017-18,113,7.6
+TfL Rail,Aug,2017-18,41,11.2
+London Tramlink,Aug,2017-18,26,11.5
+All transport modes,Aug,2017-18,2431,7.9
+Bus,Sep,2017-18,1274,6.5
+London Underground,Sep,2017-18,995,9
+Docklands Light Railway,Sep,2017-18,45,4.6
+London Overground,Sep,2017-18,110,7.2
+TfL Rail,Sep,2017-18,55,13.9
+London Tramlink,Sep,2017-18,24,9.1
+All transport modes,Sep,2017-18,2503,7.4
+Bus,Oct,2017-18,1403,7.1
+London Underground,Oct,2017-18,1209,10
+Docklands Light Railway,Oct,2017-18,50,4.7
+London Overground,Oct,2017-18,142,9.2
+TfL Rail,Oct,2017-18,69,16.6
+London Tramlink,Oct,2017-18,35,13.3
+All transport modes,Oct,2017-18,2908,8.3
+Bus,Nov,2017-18,1543,7.8
+London Underground,Nov,2017-18,1257,10.3
+Docklands Light Railway,Nov,2017-18,57,5.3
+London Overground,Nov,2017-18,102,6.5
+TfL Rail,Nov,2017-18,64,15.4
+London Tramlink,Nov,2017-18,17,6.5
+All transport modes,Nov,2017-18,3040,8.6
+Bus,Dec,2017-18,1227,7.1
+London Underground,Dec,2017-18,1282,11.9
+Docklands Light Railway,Dec,2017-18,34,3.8
+London Overground,Dec,2017-18,109,7.8
+TfL Rail,Dec,2017-18,44,13
+London Tramlink,Dec,2017-18,19,8.3
+All transport modes,Dec,2017-18,2715,8.8
+Bus,Jan,2017-18,1218,6.5
+London Underground,Jan,2017-18,1194,10.7
+Docklands Light Railway,Jan,2017-18,44,4.5
+London Overground,Jan,2017-18,97,6.1
+TfL Rail,Jan,2017-18,60,14.7
+London Tramlink,Jan,2017-18,23,9.7
+All transport modes,Jan,2017-18,2636,8
+Bus,Feb,2017-18,1245,7.2
+London Underground,Feb,2017-18,1193,11.1
+Docklands Light Railway,Feb,2017-18,30,3.2
+London Overground,Feb,2017-18,111,7.6
+TfL Rail,Feb,2017-18,59,16.9
+London Tramlink,Feb,2017-18,14,6.3
+All transport modes,Feb,2017-18,2652,8.6
+Bus,Mar,2017-18,1320,6.9
+London Underground,Mar,2017-18,1295,11.2
+Docklands Light Railway,Mar,2017-18,52,5.4
+London Overground,Mar,2017-18,116,7.2
+TfL Rail,Mar,2017-18,69,19.3
+London Tramlink,Mar,2017-18,18,7.6
+All transport modes,Mar,2017-18,2870,8.5
+Bus,Apr,2018-19,1080,6.1
+London Underground,Apr,2018-19,1111,10.1
+Docklands Light Railway,Apr,2018-19,44,4.4
+London Overground,Apr,2018-19,120,7.7
+TfL Rail,Apr,2018-19,52,13.4
+London Tramlink,Apr,2018-19,22,10.7
+All transport modes,Apr,2018-19,2429,7.6
+Bus,May,2018-19,1220,6.3
+London Underground,May,2018-19,1155,9.9
+Docklands Light Railway,May,2018-19,63,5.9
+London Overground,May,2018-19,142,9
+TfL Rail,May,2018-19,62,15.2
+London Tramlink,May,2018-19,26,10.2
+All transport modes,May,2018-19,2666,7.7
+Bus,Jun,2018-19,1194,6.1
+London Underground,Jun,2018-19,1169,10.2
+Docklands Light Railway,Jun,2018-19,56,5.5
+London Overground,Jun,2018-19,132,8.3
+TfL Rail,Jun,2018-19,58,12.7
+London Tramlink,Jun,2018-19,15,5.9
+All transport modes,Jun,2018-19,2624,7.7
+Bus,Jul,2018-19,1273,6.8
+London Underground,Jul,2018-19,1206,10.3
+Docklands Light Railway,Jul,2018-19,64,6.2
+London Overground,Jul,2018-19,132,8.3
+TfL Rail,Jul,2018-19,87,18.2
+London Tramlink,Jul,2018-19,25,10
+All transport modes,Jul,2018-19,2787,8.2
+Bus,Aug,2018-19,1032,6.2
+London Underground,Aug,2018-19,1159,10.3
+Docklands Light Railway,Aug,2018-19,51,5.1
+London Overground,Aug,2018-19,150,9.7
+TfL Rail,Aug,2018-19,85,18.9
+London Tramlink,Aug,2018-19,15,6.3
+All transport modes,Aug,2018-19,2492,8
+Bus,Sep,2018-19,1184,6.2
+London Underground,Sep,2018-19,1103,10
+Docklands Light Railway,Sep,2018-19,73,7.6
+London Overground,Sep,2018-19,103,6.2
+TfL Rail,Sep,2018-19,97,20.9
+London Tramlink,Sep,2018-19,14,5.6
+All transport modes,Sep,2018-19,2574,7.7
+Bus,Oct,2018-19,1369,7
+London Underground,Oct,2018-19,1297,10.3
+Docklands Light Railway,Oct,2018-19,62,5.6
+London Overground,Oct,2018-19,152,8.7
+TfL Rail,Oct,2018-19,112,20.8
+London Tramlink,Oct,2018-19,21,8
+All transport modes,Oct,2018-19,3013,8.4
+Bus,Nov,2018-19,1488,7.6
+London Underground,Nov,2018-19,1355,10.9
+Docklands Light Railway,Nov,2018-19,56,5.2
+London Overground,Nov,2018-19,130,7.8
+TfL Rail,Nov,2018-19,76,16.2
+London Tramlink,Nov,2018-19,21,8.3
+All transport modes,Nov,2018-19,3126,8.8
+Bus,Dec,2018-19,1262,7.3
+London Underground,Dec,2018-19,1763,16
+Docklands Light Railway,Dec,2018-19,69,7.6
+London Overground,Dec,2018-19,167,13.3
+TfL Rail,Dec,2018-19,62,16.3
+London Tramlink,Dec,2018-19,31,13.5
+All transport modes,Dec,2018-19,3354,10.8
+Bus,Jan,2018-19,1318,7.2
+London Underground,Jan,2018-19,1531,13.4
+Docklands Light Railway,Jan,2018-19,52,5.2
+London Overground,Jan,2018-19,103,6.5
+TfL Rail,Jan,2018-19,61,12.2
+London Tramlink,Jan,2018-19,19,8.3
+All transport modes,Jan,2018-19,3084,9.3
+Bus,Feb,2018-19,1369,8
+London Underground,Feb,2018-19,1484,13.5
+Docklands Light Railway,Feb,2018-19,40,4.1
+London Overground,Feb,2018-19,135,9.4
+TfL Rail,Feb,2018-19,46,10.5
+London Tramlink,Feb,2018-19,12,5.5
+All transport modes,Feb,2018-19,3086,9.9
+Bus,Mar,2018-19,1568,8.1
+London Underground,Mar,2018-19,1896,15.6
+Docklands Light Railway,Mar,2018-19,75,7
+London Overground,Mar,2018-19,141,8.4
+TfL Rail,Mar,2018-19,74,15.9
+London Tramlink,Mar,2018-19,16,6.8
+All transport modes,Mar,2018-19,3770,10.7
+Bus,Apr,2019-20,1388,7.9
+London Underground,Apr,2019-20,1749,15.6
+Docklands Light Railway,Apr,2019-20,65,6.5
+London Overground,Apr,2019-20,180,11.7
+TfL Rail,Apr,2019-20,64,13.4
+London Tramlink,Apr,2019-20,22,10.1
+All transport modes,Apr,2019-20,3468,10.9
+Bus,May,2019-20,1397,7.3
+London Underground,May,2019-20,1506,12.9
+Docklands Light Railway,May,2019-20,43,4.1
+London Overground,May,2019-20,143,9.2
+TfL Rail,May,2019-20,56,11.4
+London Tramlink,May,2019-20,23,9.7
+All transport modes,May,2019-20,3168,9.3
+Bus,Jun,2019-20,1568,8.3
+London Underground,Jun,2019-20,1833,15.8
+Docklands Light Railway,Jun,2019-20,67,6.7
+London Overground,Jun,2019-20,159,10.6
+TfL Rail,Jun,2019-20,84,17.8
+London Tramlink,Jun,2019-20,36,14.8
+All transport modes,Jun,2019-20,3747,11.1
+Bus,Jul,2019-20,1472,7.8
+London Underground,Jul,2019-20,1490,12.2
+Docklands Light Railway,Jul,2019-20,60,5.7
+London Overground,Jul,2019-20,136,8.5
+TfL Rail,Jul,2019-20,71,14.1
+London Tramlink,Jul,2019-20,24,9.7
+All transport modes,Jul,2019-20,3253,9.5
+Bus,Aug,2019-20,1146,7
+London Underground,Aug,2019-20,1444,13.1
+Docklands Light Railway,Aug,2019-20,52,5.3
+London Overground,Aug,2019-20,127,8.4
+TfL Rail,Aug,2019-20,77,16.9
+London Tramlink,Aug,2019-20,12,6.4
+All transport modes,Aug,2019-20,2858,9.4
+Bus,Sep,2019-20,1326,7
+London Underground,Sep,2019-20,1365,12.1
+Docklands Light Railway,Sep,2019-20,41,4.3
+London Overground,Sep,2019-20,125,7.7
+TfL Rail,Sep,2019-20,52,10.6
+London Tramlink,Sep,2019-20,23,10
+All transport modes,Sep,2019-20,2932,8.8
