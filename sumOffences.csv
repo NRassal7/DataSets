@@ -1,0 +1,71 @@
+Year,Crime Type,Sum of Offences
+2010,All recorded offences,1642972
+2011,All recorded offences,1626173
+2012,All recorded offences,1540434
+2013,All recorded offences,1399126
+2014,All recorded offences,1415490
+2015,All recorded offences,1478211
+2016,All recorded offences,1283803
+2010,Burglary,186733
+2011,Burglary,192355
+2012,Burglary,185364
+2013,Burglary,170534
+2014,Burglary,147275
+2015,Burglary,139399
+2016,Burglary,114149
+2010,Criminal Damage,160621
+2011,Criminal Damage,145802
+2012,Criminal Damage,119781
+2013,Criminal Damage,113294
+2014,Criminal Damage,121753
+2015,Criminal Damage,127210
+2016,Criminal Damage,108469
+2010,Drugs,127477
+2011,Drugs,121468
+2012,Drugs,104688
+2013,Drugs,102043
+2014,Drugs,87682
+2015,Drugs,81971
+2016,Drugs,93348
+2010,Fraud or Foggery,75651
+2011,Fraud or Foggery,76341
+2012,Fraud or Foggery,54241
+2013,Fraud or Foggery,1911
+2014,Fraud or Foggery,1883
+2015,Fraud or Foggery,2114
+2016,Fraud or Foggery,1888
+2010,Other Notifiable Offences,22577
+2011,Other Notifiable Offences,21337
+2012,Other Notifiable Offences,22363
+2013,Other Notifiable Offences,22985
+2014,Other Notifiable Offences,26994
+2015,Other Notifiable Offences,29633
+2016,Other Notifiable Offences,26437
+2010,Robbery,71696
+2011,Robbery,77790
+2012,Robbery,69476
+2013,Robbery,56506
+2014,Robbery,43815
+2015,Robbery,43140
+2016,Robbery,37771
+2010,Sexual Offences,20357
+2011,Sexual Offences,20211
+2012,Sexual Offences,19653
+2013,Sexual Offences,22706
+2014,Sexual Offences,29657
+2015,Sexual Offences,32448
+2016,Sexual Offences,28494
+2010,Theft and Handling,646446
+2011,Theft and Handling,663442
+2012,Theft and Handling,665723
+2013,Theft and Handling,601529
+2014,Theft and Handling,561950
+2015,Theft and Handling,569352
+2016,Theft and Handling,506262
+2010,Violence against the person,331414
+2011,Violence against the person,307427
+2012,Violence against the person,299145
+2013,Violence against the person,307618
+2014,Violence against the person,394480
+2015,Violence against the person,452944
+2016,Violence against the person,395753
